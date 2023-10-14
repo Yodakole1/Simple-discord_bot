@@ -3,6 +3,7 @@
 This is simple hobby project. 
 
 If u wanna use it, download code(zip). 
+
 ![Screenshot from 2023-10-14 20-22-49](https://github.com/Yodakole1/Simple-discord_bot/assets/119262845/e4365be4-4fd3-4278-8bc3-c87f670320c7)
 
 **NOTE:** You need to have python(newer than 3.9) and libraries installed.
